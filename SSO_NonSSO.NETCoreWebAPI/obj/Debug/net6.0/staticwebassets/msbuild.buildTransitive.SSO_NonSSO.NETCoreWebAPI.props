@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SSO_NonSSO.NETCoreWebAPI.props" />
+</Project>

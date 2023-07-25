@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LV1XOyUOhsF2i39T0dcoJAjuXEiCrSaRiHl3+npLGcw=",
+  "Source": "SSO_NonSSO.NETCoreWebAPI",
+  "BasePath": "_content/SSO_NonSSO.NETCoreWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
